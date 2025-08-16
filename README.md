@@ -1,4 +1,6 @@
 # DEMO
-first repo
+first repository
+
 <br>
-Author Rishabh
+Author Rishabh Shukla
+
